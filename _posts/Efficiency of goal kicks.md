@@ -1,4 +1,7 @@
-# Efficiency of goal kicks 
+---
+layout: post
+title: Efficiency of goal kicks
+---
 
 ## Introduction 
 Football is changing all the time. One of the changes is that goalkeepers are functioning as the defenders, they are playing out of the box and starting the plays not only by long balls but also with short passes... and [Pep like it](https://www.manchestereveningnews.co.uk/sport/football/football-news/ederson-man-city-midfield-pep-15680675).
