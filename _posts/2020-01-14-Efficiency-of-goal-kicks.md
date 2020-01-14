@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Efficiency of goal kicks
+mathjax: true
+category: football
 ---
 
 ## Introduction 
