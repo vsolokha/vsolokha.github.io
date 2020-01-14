@@ -24,7 +24,7 @@ But is it effective? What is better:
 
 * [crazy long ball, which can be a goal itself](https://www.youtube.com/watch?v=TLFpWA0O41Q)
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/TLFpWA0O41Q" frameborder="0"> </iframe> 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/TLFpWA0O41Q" frameborder="0" allowfullscreen> </iframe> 
 
 The main idea of football is to score goals ([but not for everybody](https://www.eurosport.ru/football/russian-premier-league/2019-2020/story_sto7532867.shtml)). To score the goal you need to shoot. Therefore, to estimate the efficiency we calculate the probability for the team to shoot after the goal kick, before losing the possession.
 
@@ -38,9 +38,9 @@ Typically the goal kick starts the possession, by losing the same possession. In
 
 The probabilistic model is step-like, similar to the [PyMC2 tutorial](https://pymc-devs.github.io/pymc/tutorial.html):
 
-$\begin{split}     
+$$ \begin{split}     
 \begin{array}{ccc}  
-(p_{shot} | p_1, p_2, t_1) \sim\text{Bernoulli}\left(p\right), & p=\left\{\begin{array}{lll}             p_1 &\text{if}& l< t_1\\ p_2 &\text{if}& l\ge t_1             \end{array}\right.,&t_1\in[0,1]\\         p_1\sim \text{Uniform}(0, 1)\\         p_2\sim \text{Uniform}(0, 1)\\         t_1\sim \text{Uniform}(0, 1)\\     \end{array}\end{split}$
+(p_{shot} | p_1, p_2, t_1) \sim\text{Bernoulli}\left(p\right), & p=\left\{\begin{array}{lll}             p_1 &\text{if}& l< t_1\\ p_2 &\text{if}& l\ge t_1             \end{array}\right.,&t_1\in[0,1]\\         p_1\sim \text{Uniform}(0, 1)\\         p_2\sim \text{Uniform}(0, 1)\\         t_1\sim \text{Uniform}(0, 1)\\     \end{array}\end{split} $$
  
 Shots are described by the Bernoulli distribution. The $p_1$ and $p_2$ is the step function describing the boundary between the short and the long pass. While the boundary itself is defined by the $t_1$ value. All the inputs have no prior information, thus they are initiated uniformly. 
 
