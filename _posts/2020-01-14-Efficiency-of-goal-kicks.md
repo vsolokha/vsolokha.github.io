@@ -156,6 +156,8 @@ Hope you will find it useful.
 ## References:
 
 Source code: https://github.com/vsolokha/goalkickanalysis
+
 Pitch plot is inspired by http://petermckeever.com/2019/01/plotting-pitches-in-python/ 
+
 Data provided by https://github.com/statsbomb/open-data
 ![](https://github.com/statsbomb/open-data/raw/master/stats-bomb-logo.png)
