@@ -127,7 +127,7 @@ As the results of the 3-step scheme are consistent with the 2-step scheme, we ca
 The analysis was held to estimate the probability of having a shot after the goal kick. But the threshold value which shows where short passes turn to long passes and can be useful to estimate the 
 
 The 2-steps scheme results are presented below: 
-![](https://i.imgur.com/16COkNV.png)
+![](https://i.imgur.com/ZqlBIFh.png)
 
 The surprising result that the pass length threshold is fluctuating from one year to another ($\pm$ 30 m), but stays approximately at the same level (14 years trend results in approximately 15 m change). Which means that difference in length between efficient short passes and inefficient long passes had been the same all the time. But managers and analytics started to use it only recently.
 
