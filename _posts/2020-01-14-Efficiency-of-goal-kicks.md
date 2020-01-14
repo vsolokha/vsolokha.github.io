@@ -13,18 +13,7 @@ The evolution could be easily seen by looking at the goal kick passes distributi
 
 In the season 2018/2019 compared with 2004/2005, there were two times fewer 60m passes and 1.5 times more 20m passes. Such a difference is caused by the desire to have more ball control in the build-up phase. 
 
-But is it effective? What is better: 
-* [short pass](https://youtu.be/QgAUGWTnt8g?t=198)
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/QgAUGWTnt8g?t=198" frameborder="0"> </iframe> 
-
-* [midfield lob pass](https://www.youtube.com/watch?v=raNt_hOBeJU&feature=youtu.be&t=34)
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/raNt_hOBeJU?t=34" frameborder="0"> </iframe> 
-
-* [crazy long ball, which can be a goal itself](https://www.youtube.com/watch?v=TLFpWA0O41Q)
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/TLFpWA0O41Q" frameborder="0" allowfullscreen> </iframe> 
+But is it effective?  What is better: [short pass](https://youtu.be/QgAUGWTnt8g?t=198), [midfield lob pass](https://www.youtube.com/watch?v=raNt_hOBeJU&feature=youtu.be&t=34) or [crazy long ball, which can be a goal itself](https://www.youtube.com/watch?v=TLFpWA0O41Q)? 
 
 The main idea of football is to score goals ([but not for everybody](https://www.eurosport.ru/football/russian-premier-league/2019-2020/story_sto7532867.shtml)). To score the goal you need to shoot. Therefore, to estimate the efficiency we calculate the probability for the team to shoot after the goal kick, before losing the possession.
 
