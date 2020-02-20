@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am doing high-temperature plasma physics for 7 years, now as a PhD student. But this webpage is mostly about the question which I want to answer. Hope you enjoy it.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[vladimir.soloha@gmail.com](mailto:vladimir.soloha@gmail.com)
